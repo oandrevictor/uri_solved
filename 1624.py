@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+n= 1
+while n>0:
 	n = int(raw_input())
 	if n==0:
 		break
